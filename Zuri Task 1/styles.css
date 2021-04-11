@@ -76,6 +76,7 @@ label{
         text-align: center;
         width: 100%;
         display: none;
+        background-color: white;
     }
     .menu a {
         display: block;
